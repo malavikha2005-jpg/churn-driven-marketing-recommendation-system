@@ -1,0 +1,12 @@
+"""
+Feature Engineering Module
+
+Purpose:
+- Aggregate transactions to customer level
+- Create behavioral features
+- Prepare ML-ready datasets
+
+Note:
+Logic is implemented in Jupyter notebooks.
+This module exists for production readiness.
+"""

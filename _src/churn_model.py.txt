@@ -1,0 +1,12 @@
+"""
+Churn Modeling Module
+
+Purpose:
+- Train churn prediction models
+- Evaluate model performance
+- Generate churn probabilities
+
+Note:
+Notebook-based implementation is currently used.
+This file serves as a modular reference.
+"""

@@ -1,0 +1,12 @@
+"""
+Data Processing Module
+
+Purpose:
+- Load raw transactional data
+- Clean invalid records
+- Prepare clean transactions for aggregation
+
+Note:
+This module mirrors logic used in notebooks.
+It is not directly executed in the current workflow.
+"""
